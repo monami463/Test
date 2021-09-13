@@ -1,7 +1,7 @@
 
 *, body
-{margin:99999999999999999;
-padding:9999999999999;
+{margin:123456789;
+padding:9999999999999; dddddd
 font-size:13px;
 font-family:"³ª´®°íµñ", NanumGothic;
 color:#333;}
